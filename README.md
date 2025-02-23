@@ -1,0 +1,1 @@
+This repository demonstrates a common error encountered when using the $inc operator in MongoDB update operations. The provided code shows an incorrect usage of the operator, and a corrected version is provided for comparison and understanding.
